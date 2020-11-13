@@ -1,0 +1,8 @@
+export SENDER_ADDRESS=""
+export EMAIL_RECIPIENTS=""
+export SENDER_PASSWORD=""
+export MAIL_PORT="25"
+export SMTP_SERVER_1=""
+export SMTP_SERVER_2=""
+
+export THRESHOLD="70"
